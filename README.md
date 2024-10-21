@@ -13,7 +13,8 @@
 
 <div align="center">
   <h3 font-size="15px" color="#000000">🌐 Contact Me 🌐</h3>
-  <a href="https://www.linkedin.com/in/imad-touil-700499301/?trk=opento_sprofile_details" style="text-decoration: none !important;">
+  <a href="https://www.linkedin.com/in/bilaizi-alae-abb41a260/" style="text-decoration: none !important;">
+    <a href="https://www.flaticon.com/fr/icones-gratuites/linkedin" title="linkedin icônes">Linkedin icônes créées par Freepik - Flaticon</a>
     <img src="./images/social/LinkedIn.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@imatouil" style="text-decoration: none !important;">
