@@ -7,45 +7,6 @@
 ###
 <img width=100% src="https://badge.mediaplus.ma/greenbinary/imatouil"/>
 
-<div align="center">
-  <h3 font-size="15px" color="#000000">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-  <img src="./images/skills/HTML.svg" height="50" alt="vscode logo"  />
-  <img width="5">
-  <img src="./images/skills/CSS.svg" height="50" alt="CSS logo"  />
-  <img width="5">
-  <img src="./images/skills/JavaScript.svg" height="50" alt="JavaScript logo"  />
-  <img width="5">
-  <img src="./images/skills/React-Dark.svg" height="50" alt="React logo"  />
-  <img width="5">
-  <img src="./images/skills/Bootstrap.svg" height="50" alt="Bootstrap logo"  />
-  <img width="5">
-  <img src="./images/skills/PHP-Dark.svg" height="50" alt="PHP logo"  />
-  <img width="5">
-  <img src="./images/skills/Python-Dark.svg" height="50" alt="Python logo"  />
-  <img width="5">
-  <img src="./images/skills/PyCharm-Dark.svg" height="50" alt="PyCharm logo"  />
-  <img width="5">
-  <img src="./images/skills/Figma-Dark.svg" height="50" alt="Figma logo"  />
-  <img width="5">
-  <img src="./images/skills/Notion-Dark.svg" height="50" alt="Notion logo"  />
-  <img width="5">
-  <img src="./images/skills/Linux-Dark.svg" height="50" alt="Linux logo"  />
-  <img width="5">
-  <img src="./images/skills/Bash-Dark.svg" height="50" alt="Bash logo"  />
-  <img width="5">
-  <img src="./images/skills/VIM-Dark.svg" height="50" alt="VIM logo"  />
-  <img width="5">
-  <img src="./images/skills/Git.svg" height="50" alt="Git logo"  />
-  <img width="5">
-  <img src="./images/skills/Github-Dark.svg" height="50" alt="Github logo"  />
-  <img width="5">
-  <img src="./images/skills/VSCode-Dark.svg" height="50" alt="VSCode logo"  />
-  <img width="5">
-  <img src="./images/skills/C.svg" height="50" alt="C logo"  />
-  <img width="5">
-  <img src="./images/skills/GoLang.svg" height="50" alt="GoLang logo"  />
-</div>
-
 ###
 
 <br clear="both">
