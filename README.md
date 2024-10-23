@@ -12,14 +12,6 @@
 <br clear="both">
 
 <div align="center">
-  <h3 font-size="15px" color="#000000">🌐 Contact Me 🌐</h3>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&text_color=00f70e" height="150" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&text_color=00f70e" height="150" alt="languages graph" />
