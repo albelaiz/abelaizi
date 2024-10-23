@@ -13,31 +13,6 @@
 
 <div align="center">
   <h3 font-size="15px" color="#000000">🌐 Contact Me 🌐</h3>
-  <a href="https://www.linkedin.com/in/bilaizi-alae-abb41a260/" style="text-decoration: none !important;">
-    <a href="https://www.flaticon.com/fr/icones-gratuites/linkedin" title="linkedin icônes">Linkedin icônes créées par Freepik - Flaticon</a>
-    <img src="./images/social/LinkedIn.svg" width="70" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@imatouil" style="text-decoration: none !important;">
-    <img src="./images/social/Discord.svg" width="70" height="50" alt="coding game logo"  />
-  </a>
-  <a href="mailto:imadtouil.it@gmail.com" style="text-decoration: none !important;">
-    <img src="./images/social/Gmail-Dark.svg" width="70" height="50" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/imad__touil" style="text-decoration: none !important;">
-    <img src="./images/social/x.svg" width="70" height="50" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/touil.dev" style="text-decoration: none !important;">
-    <img src="./images/social/Instagram.svg" width="70" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://web.facebook.com/ImadTouil26/" style="text-decoration: none !important;">
-    <img src="./images/social/facebook.svg" width="70" height="50" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/+212767097748" style="text-decoration: none !important;">
-    <img src="./images/social/telegram.svg" width="70" height="50" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/+212767097748" style="text-decoration: none !important;">
-    <img src="./images/social/whatsapp.svg" width="70" height="50" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
