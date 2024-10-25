@@ -2,7 +2,7 @@
 
 <img width=100% src="./images/wwave.png"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00CC1E&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Imad+Touil;I'm+23+years+old;I+From+Morocco+;+Software+Engineer+Student+at+1337+MED.;Be+Welcome!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Alae+Belaizi+;I'm+From+Morocco+;I'm+20+years+old;Software+Engineer+and+Student+at+1337+Med" alt="Typing SVG" /></a>
 
 ###
 <a href="https://github.com/oakoudad/badge42"><img width=100% src="https://badge.mediaplus.ma/binary/albelaiz" alt="albelaiz's 42 stats" /></a>
